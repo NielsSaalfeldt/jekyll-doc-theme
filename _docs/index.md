@@ -13,7 +13,7 @@ From there let us guide you by following the steps below.
 3. The map will appear and you will observe the number of job listing in Switzerland.
 4. Play around with it by filtering the category you seek to find a job in!
 5. Zoom on the region/city you desire to work in and, by clicking on the icon you will observe job title and the indeed link to the corresponding job
-6. APPLY!
+6. CLICK & APPLY!
 
 
 ## Writing content
