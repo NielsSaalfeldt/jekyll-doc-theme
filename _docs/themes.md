@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: Meet group 6
 permalink: /docs/themes/
 ---
 
