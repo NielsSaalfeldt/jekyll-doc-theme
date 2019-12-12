@@ -10,8 +10,6 @@ Once you have cloned the repo [group6project](https://github.com/Ferdi28/group6p
 From there let us guide you by following the steps below.
 1. Download this package to start 
 
-<input type="text" value="devtools::install_github("Ferdi28/group6project")" id="myInput">
-<button onclick="myFunction()">Copy text</button>
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
