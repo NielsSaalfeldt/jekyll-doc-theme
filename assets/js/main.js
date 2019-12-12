@@ -30,4 +30,13 @@ $(function () {
 
   initSearchBox();
   styleContentToMD();
+
+function ClipBoard()
+{
+holdtext.innerText = copytext.innerText;
+Copied = holdtext.createTextRange();
+Copied.execCommand("RemoveFormat");
+Copied.execCommand("Copy");
+}
+
 });
