@@ -6,10 +6,10 @@ redirect_from: /docs/index.html
 
 ## Getting started
 
-Once you have cloned the repo[group6project](https://github.com/Ferdi28/group6project), open the corresponding R project in your files.
+Once you have cloned the repo [group6project](https://github.com/Ferdi28/group6project), open the corresponding R project in your files.
 From there let us guide you by following the steps below.
 1. Download package 
-<SPAN ID="copytext" STYLE="height:150;width:162;background-color:white">
+<SPAN ID="copytext" STYLE="height:150; width:162; background-color:white">
 devtools::install_github("Ferdi28/group6project")
 </SPAN>
 
