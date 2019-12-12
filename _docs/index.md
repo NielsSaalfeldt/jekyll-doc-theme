@@ -6,6 +6,18 @@ redirect_from: /docs/index.html
 
 ## Getting started
 
+Once you have cloned the repo[group6project](https://github.com/Ferdi28/group6project), open the corresponding R project in your files.
+From there let us guide you by following the steps below.
+1. Download package 
+<SPAN ID="copytext" STYLE="height:150;width:162;background-color:white">
+devtools::install_github("Ferdi28/group6project")
+</SPAN>
+
+<TEXTAREA ID="holdtext" STYLE="display:none;">
+</TEXTAREA>
+<BUTTON onClick="ClipBoard();">Copy to Clipboard</BUTTON>
+
+
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
 The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
