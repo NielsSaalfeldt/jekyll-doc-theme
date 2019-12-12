@@ -31,19 +31,15 @@ $(function () {
   initSearchBox();
   styleContentToMD();
 
-function ClipBoard() {
-holdtext.innerText = copytext.innerText;
-Copied = holdtext.createTextRange();
-Copied.execCommand("Copy");
-}
-<SCRIPT LANGUAGE="JavaScript">
+function myFunction() {
+  var copyText = document.getElementById("myInput");
 
-function ClipBoard() {
-holdtext.innerText = copytext.innerText;
-Copied = holdtext.createTextRange();
-Copied.execCommand("Copy");
-}
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
 
-</SCRIPT>
+  document.execCommand("copy");
+
+  alert("Copied the text: " + copyText.value);
+}
 
 });
