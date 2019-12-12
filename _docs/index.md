@@ -8,16 +8,13 @@ redirect_from: /docs/index.html
 
 Once you have cloned the repo [group6project](https://github.com/Ferdi28/group6project), open the corresponding R project in your files.
 From there let us guide you by following the steps below.
-1. Download this package to start 
+1. Download this package to start or rather build and install it.
+2. Run the app either manually or with the function run_indeed().
+3. The map will appear and you will observe the number of job listing in Switzerland.
+4. Play around with it by filtering the category you seek to find a job in!
+5. Zoom on the region/city you desire to work in and, by clicking on the icon you will observe job title and the indeed link to the corresponding job
+6. APPLY!
 
-
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
-
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `assets/img/logonav.png` with your own logo.
 
 ## Writing content
 
