@@ -4,6 +4,7 @@ email: your-email@domain.com
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
+  And in this case for the project of group 6!
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
