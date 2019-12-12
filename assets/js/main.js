@@ -31,12 +31,19 @@ $(function () {
   initSearchBox();
   styleContentToMD();
 
-function ClipBoard()
-{
+function ClipBoard() {
 holdtext.innerText = copytext.innerText;
 Copied = holdtext.createTextRange();
-Copied.execCommand("RemoveFormat");
 Copied.execCommand("Copy");
 }
+<SCRIPT LANGUAGE="JavaScript">
+
+function ClipBoard() {
+holdtext.innerText = copytext.innerText;
+Copied = holdtext.createTextRange();
+Copied.execCommand("Copy");
+}
+
+</SCRIPT>
 
 });
