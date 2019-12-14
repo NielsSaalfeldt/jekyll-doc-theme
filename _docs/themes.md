@@ -3,246 +3,38 @@ title: Meet group 6
 permalink: /docs/themes/
 ---
 
-By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
-`bootwatch` variable in `_config.yml` file.
-(Don't forget to restart `Jekyll` if you are running locally because the configuration is not re-read upon change.)
+# Group members
 
-<div class="row">
+## Rebecca Silden Langlo 
+![Rebecca Silden Langlo](/assets/img/Rebecca.jpg)
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
-      </div>
-      <div class="caption">
-        <h3>Cerulean</h3>
-        <p>A calm blue sky</p>
-      </div>
-    </div>
-  </div>
+I am a girl from the west coast of Norway. I moved to Copenhagen in 2015 to pursue my bachelor degree in Economics and Business Administration at Copenhagen Business School (CBS). During my bachelor I went on exchange to Mexico City for a semester. In 2018 I finnished my bachelor degree and started on my master degree of EBA in  Finance and Investments, which led me to this exchange semester at HEC Lausanne before writing my master thesis the coming spring. 
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cosmo/"><img class="img-responsive" src="https://bootswatch.com/3/cosmo/thumbnail.png" alt="Cosmo"></a>
-      </div>
-      <div class="caption">
-        <h3>Cosmo</h3>
-        <p>An ode to Metro</p>
-      </div>
-    </div>
-  </div>
+I chose to go on exchange to Switzerland on exchange as i love to go skiing. This is something I've done since I was five years old, as I grew up in a small town in Norway five minutes away from a skiing resort. This has made me enjoy nature and the possibilities this brings.
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#cyborg/"><img class="img-responsive" src="https://bootswatch.com/3/cyborg/thumbnail.png" alt="Cyborg"></a>
-      </div>
-      <div class="caption">
-        <h3>Cyborg</h3>
-        <p>Jet black and electric blue</p>
+## Edvard Edding
+![Edvard Edding Anno 2016](/assets/img/edvard.png)
 
+I'm from Oslo, Norway and currently on exchange to Université de Lausanne HEC from my home university, Copenhagen Business School where I pursue a Master of Science in Economics and Business Administration with a specialization in Finance and Strategic Management.
 
-      </div>
-    </div>
-  </div>
+I decided to go to Lausanne because of the beautiful nature surrounding the city. Since my arrival I have enjoyed the lake and the mountains and look forward to go hiking in the autumn and skiing during winter. 
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#darkly/"><img class="img-responsive" src="https://bootswatch.com/3/darkly/thumbnail.png" alt="Darkly"></a>
-      </div>
-      <div class="caption">
-        <h3>Darkly</h3>
-        <p>Flatly in night mode</p>
+## Emily Trentmann
+![Lissabon 2019](/assets/img/Emily.jpg)
 
+I am pursuing my master's degree in Economics at the University of Stuttgart-Hohenheim in the south of Germany, but originally I come from Cologne. I decided to go to Lausanne for an exchange semester as I love the mountains as well as the lake and I can easily combine the courses at HEC with my specializations in macroeconomics and econometrics at home. As I am quite interested in politics and journalism I took part at a student simulation of the united nations last year in New York and I regurlary participate in writing contests for different newspapers (but until now without any luck). 
 
-      </div>
-    </div>
-  </div>
+## Niels Saalfeldt
+![At the Valle Verzasca in Ticino 2019](/assets/img/Niels-tessin.jpg)
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#flatly/"><img class="img-responsive" src="https://bootswatch.com/3/flatly/thumbnail.png" alt="Flatly"></a>
-      </div>
-      <div class="caption">
-        <h3>Flatly</h3>
-        <p>Flat and modern</p>
+I have a more classical background as I did my Bachelor in Lausanne. Currently I'm doing my masters in Management in the Business Analytics orientation. It is true that Switzerland is a beautiful country and even more so in our part with the lake and the alps! I am a big fan of the lake and especially enjoy nautical sports such as wakeboarding and waterskiing during the summer. Of course when winter is around, I enjoy the snow as well.
 
+Something worth mentioning is that I am not a Swiss citizen. I am half German and the other half is Brazilian. Although I have lived pretty much my whole life here, I have not yet asked to be naturalized.I guess the reason is that the mandatory military service is not that appealing...
 
-      </div>
-    </div>
-  </div>
+## Ferdinando Pepe
+![In Moscow city, Gum Deparment Store](/assets/img/Ferdi.jpg)
 
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#journal/"><img class="img-responsive" src="https://bootswatch.com/3/journal/thumbnail.png" alt="Journal"></a>
-      </div>
-      <div class="caption">
-        <h3>Journal</h3>
-        <p>Crisp like a new sheet of paper</p>
+As a lover of fantastic worlds and creative stories, one of my favourite hobbies is certainly gaming: similarly to reading books, it allows me to completely detach from the stressful reality when I need it. I forget all my worries for a while and wander around in a world that is both exciting and completely different from the one we live in. I especially like playing with some internet friends and share the experience with them. 
+However, Just like many passions, it is better to control it and not to go overboard with it; we might lose touch with reality too much and give priority to the wrong things.
 
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#lumen/"><img src="https://bootswatch.com/3/lumen/thumbnail.png" class="img-responsive" alt="Lumen"></a>
-      </div>
-      <div class="caption">
-        <h3>Lumen</h3>
-        <p>Light and shadow</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#paper/"><img class="img-responsive" src="https://bootswatch.com/3/paper/thumbnail.png" alt="Paper"></a>
-      </div>
-      <div class="caption">
-        <h3>Paper</h3>
-        <p>Material is the metaphor</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#readable/"><img class="img-responsive" src="https://bootswatch.com/3/readable/thumbnail.png" alt="Readable"></a>
-      </div>
-      <div class="caption">
-        <h3>Readable</h3>
-        <p>Optimized for legibility</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#sandstone/"><img src="https://bootswatch.com/3/sandstone/thumbnail.png" class="img-responsive" alt="Sandstone"></a>
-      </div>
-      <div class="caption">
-        <h3>Sandstone</h3>
-        <p>A touch of warmth</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#simplex/"><img class="img-responsive" src="https://bootswatch.com/3/simplex/thumbnail.png" alt="Simplex"></a>
-      </div>
-      <div class="caption">
-        <h3>Simplex</h3>
-        <p>Mini and minimalist</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#slate/"><img class="img-responsive" src="https://bootswatch.com/3/slate/thumbnail.png" alt="Slate"></a>
-      </div>
-      <div class="caption">
-        <h3>Slate</h3>
-        <p>Shades of gunmetal gray</p>
-
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#solar/"><img class="img-responsive" src="https://bootswatch.com/solar/thumbnail.png" alt="Solar"></a>
-      </div>
-      <div class="caption">
-        <h3>Solar</h3>
-        <p>A spin on Solarized</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#spacelab/"><img class="img-responsive" src="https://bootswatch.com/3/spacelab/thumbnail.png" alt="Spacelab"></a>
-      </div>
-      <div class="caption">
-        <h3>Spacelab</h3>
-        <p>Silvery and sleek</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#superhero/"><img class="img-responsive" src="https://bootswatch.com/3/superhero/thumbnail.png" alt="Superhero"></a>
-      </div>
-      <div class="caption">
-        <h3>Superhero</h3>
-        <p>The brave and the blue</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#united/"><img class="img-responsive" src="https://bootswatch.com/3/united/thumbnail.png" alt="United"></a>
-      </div>
-      <div class="caption">
-        <h3>United</h3>
-        <p>Ubuntu orange and unique font</p>
-
-
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-sm-6">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="#yeti/"><img class="img-responsive" src="https://bootswatch.com/3/yeti/thumbnail.png" alt="Yeti"></a>
-      </div>
-      <div class="caption">
-        <h3>Yeti</h3>
-        <p>A friendly foundation</p>
-
-
-      </div>
-    </div>
-  </div>
-
-
-</div>
+A fun little fact about me would be that I am named after my grandfather, Ferdinando - who was named after an Italian king  - and we also shared the same family name: Pepe. I am thus the second Ferdinando Pepe of my family and was really proud of it as a little boy, since my grandfather was someone I really looked up to.
