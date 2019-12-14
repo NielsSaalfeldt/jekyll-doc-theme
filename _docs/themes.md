@@ -6,7 +6,7 @@ permalink: /docs/themes/
 # Group members
 
 ## Rebecca Silden Langlo 
-<img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" class="img-responsive">
+<img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" width ="50px" height ="50px" class="img-responsive">
 
 I am a girl from the west coast of Norway. I moved to Copenhagen in 2015 to pursue my bachelor degree in Economics and Business Administration at Copenhagen Business School (CBS). During my bachelor I went on exchange to Mexico City for a semester. In 2018 I finnished my bachelor degree and started on my master degree of EBA in  Finance and Investments, which led me to this exchange semester at HEC Lausanne before writing my master thesis the coming spring. 
 
@@ -25,7 +25,7 @@ I decided to go to Lausanne because of the beautiful nature surrounding the city
 I am pursuing my master's degree in Economics at the University of Stuttgart-Hohenheim in the south of Germany, but originally I come from Cologne. I decided to go to Lausanne for an exchange semester as I love the mountains as well as the lake and I can easily combine the courses at HEC with my specializations in macroeconomics and econometrics at home. As I am quite interested in politics and journalism I took part at a student simulation of the united nations last year in New York and I regurlary participate in writing contests for different newspapers (but until now without any luck). 
 
 ## Niels Saalfeldt
-<img src="{{ "/assets/img/Niels-tessin.jpg" | relative_url }}" alt="Niels" class="img-responsive">
+<img src="{{ "/assets/img/Niels-tessin.jpg" | width =50px | height = 50px | relative_url }}" alt="Niels" class="img-responsive">
 
 I have a more classical background as I did my Bachelor in Lausanne. Currently I'm doing my masters in Management in the Business Analytics orientation. It is true that Switzerland is a beautiful country and even more so in our part with the lake and the alps! I am a big fan of the lake and especially enjoy nautical sports such as wakeboarding and waterskiing during the summer. Of course when winter is around, I enjoy the snow as well.
 
