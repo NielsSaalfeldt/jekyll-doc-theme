@@ -1,6 +1,6 @@
 ---
 title: Meet group 6
-align: center
+title-align: center
 permalink: /docs/themes/
 ---
 
