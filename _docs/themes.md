@@ -6,7 +6,7 @@ permalink: /docs/themes/
 # Group members
 <h2 align ="center" class="header-light regular-pad">Rebecca</h2>
 <p align = "center">
-<img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" width ="150px" height ="150px" class="img-responsive">
+<img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" width ="200px" height ="200px" class="img-responsive">
 </p>
 I am a girl from the west coast of Norway. I moved to Copenhagen in 2015 to pursue my bachelor degree in Economics and Business Administration at Copenhagen Business School (CBS). During my bachelor I went on exchange to Mexico City for a semester. In 2018 I finnished my bachelor degree and started on my master degree of EBA in  Finance and Investments, which led me to this exchange semester at HEC Lausanne before writing my master thesis the coming spring. 
 
@@ -15,7 +15,7 @@ I chose to go on exchange to Switzerland on exchange as i love to go skiing. Thi
 ## Edvard Edding
   </p>
 <p align ="center">
-<img  src="{{ "/assets/img/edvard.png" | relative_url }}" width ="100px" height="100px" alt="Edvard" class="img-responsive">
+<img  src="{{ "/assets/img/edvard.png" | relative_url }}" width ="200px" height="200px" alt="Edvard" class="img-responsive">
 </p>
 I'm from Oslo, Norway and currently on exchange to Université de Lausanne HEC from my home university, Copenhagen Business School where I pursue a Master of Science in Economics and Business Administration with a specialization in Finance and Strategic Management.
 
@@ -29,7 +29,7 @@ I am pursuing my master's degree in Economics at the University of Stuttgart-Hoh
 
 ## Niels Saalfeldt
 <p align ="center">
-<img src="{{ "/assets/img/Niels-tessin.jpg" | relative_url }}" alt="Niels" width ="100px" height = "100px" class="img-responsive">
+<img src="{{ "/assets/img/Niels-tessin.jpg" | relative_url }}" alt="Niels" width ="200px" height = "200px" class="img-responsive">
 </p>
 I have a more classical background as I did my Bachelor in Lausanne. Currently I'm doing my masters in Management in the Business Analytics orientation. It is true that Switzerland is a beautiful country and even more so in our part with the lake and the alps! I am a big fan of the lake and especially enjoy nautical sports such as wakeboarding and waterskiing during the summer. Of course when winter is around, I enjoy the snow as well.
 
@@ -37,7 +37,7 @@ Something worth mentioning is that I am not a Swiss citizen. I am half German an
 
 ## Ferdinando Pepe
 <p align = "center">
-<img src="{{ "/assets/img/Ferdi.jpg" | relative_url }}" alt="Ferdi" width ="150px" height ="150px" class="img-responsive">
+<img src="{{ "/assets/img/Ferdi.jpg" | relative_url }}" alt="Ferdi" width ="200px" height ="200px" class="img-responsive">
 </p>
 As a lover of fantastic worlds and creative stories, one of my favourite hobbies is certainly gaming: similarly to reading books, it allows me to completely detach from the stressful reality when I need it. I forget all my worries for a while and wander around in a world that is both exciting and completely different from the one we live in. I especially like playing with some internet friends and share the experience with them. 
 However, Just like many passions, it is better to control it and not to go overboard with it; we might lose touch with reality too much and give priority to the wrong things.
