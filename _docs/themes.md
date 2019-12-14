@@ -6,7 +6,8 @@ permalink: /docs/themes/
 # Group members
 
 ## Rebecca Silden Langlo 
-![Rebecca Silden Langlo](/assets/img/Rebecca.jpg)
+![Rebecca Silden Langlo](/assets/img/)
+<img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" class="img-responsive">
 
 I am a girl from the west coast of Norway. I moved to Copenhagen in 2015 to pursue my bachelor degree in Economics and Business Administration at Copenhagen Business School (CBS). During my bachelor I went on exchange to Mexico City for a semester. In 2018 I finnished my bachelor degree and started on my master degree of EBA in  Finance and Investments, which led me to this exchange semester at HEC Lausanne before writing my master thesis the coming spring. 
 
