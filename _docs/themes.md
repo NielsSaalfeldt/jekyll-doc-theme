@@ -4,16 +4,16 @@ permalink: /docs/themes/
 ---
 
 # Group members
-
-## Rebecca Silden Langlo 
+<h2 align ="center" class="header-light regular-pad">Rebecca</h2>
 <p align = "center">
 <img src="{{ "/assets/img/Rebecca.jpg" | relative_url }}" alt="Rebecca" width ="150px" height ="150px" class="img-responsive">
 </p>
 I am a girl from the west coast of Norway. I moved to Copenhagen in 2015 to pursue my bachelor degree in Economics and Business Administration at Copenhagen Business School (CBS). During my bachelor I went on exchange to Mexico City for a semester. In 2018 I finnished my bachelor degree and started on my master degree of EBA in  Finance and Investments, which led me to this exchange semester at HEC Lausanne before writing my master thesis the coming spring. 
 
 I chose to go on exchange to Switzerland on exchange as i love to go skiing. This is something I've done since I was five years old, as I grew up in a small town in Norway five minutes away from a skiing resort. This has made me enjoy nature and the possibilities this brings.
-
+<p align = "center">
 ## Edvard Edding
+  </p>
 <p align ="center">
 <img  src="{{ "/assets/img/edvard.png" | relative_url }}" width ="100px" height="100px" alt="Edvard" class="img-responsive">
 </p>
