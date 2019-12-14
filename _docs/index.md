@@ -18,8 +18,10 @@ From there let us guide you by following the steps below.
 
 ## Package functions
 
-#### run_Indeed()
-Runs the shiny app to display Indeed Jobs on a map
+#### indeed_scraping()
+Creates a data frame with indeed jobs based on the categories selected.
+ATTENTION : Run to update the dataframe containing the information about the jobs listed at Indeed.
+Include more or less categories depending on computing power of your computer (Four categories takes about 45 minutes).
 
 #### map_ready_df()
 Creates a data frame with indeed jobs and their corresponding latitude longitude based on the city.
@@ -27,14 +29,13 @@ Please make sure you use the following code in order to have the data for the ap
 final_indeed_data <- readRDS(file = here :: here("final_indeed_data.rds")) where the Data Frame comes from
 the (prepared Data) folder.
 
-#### indeed_scraping()
-Creates a data frame with indeed jobs based on the categories selected.
-ATTENTION : Run to update the dataframe containing the information about the jobs listed at Indeed.
-Include more or less categories depending on computing power of your computer (Four categories takes about 45 minutes).
-
 #### indeed_map()
 Creates an interactive map of the indeed data frame created with map_ready_df function.
 It displays the job offers' location, its type and its external link to the indeed website.
+
+#### run_Indeed()
+Runs the shiny app to display Indeed Jobs on a map
+
 
 Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
 
