@@ -2,15 +2,13 @@
 title: Tutorial
 permalink: /docs/customization/
 ---
-Here below is a video showcasing on how to use our app. By following the steps from the first pages, you should be able to follow the instructions.
+Here below is a video showcasing on how to use our app. By following the steps from the first pages,
+you should be able to follow the instructions.
+
+
 
 <video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload></video>
 
-This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/3).
-You can create your own theme by writing your own `sass` files.
+<hr>
 
-Create a new a theme folder like `_sass/bootwatch/custom` and set your `bootwatch` variables in `_config.yml` to `custom`:
-
-```yaml
-bootwatch: custom
-```
+<video src="{{ "/assets/img/Indee-App.mp4" | relative_url }}" alt="Rebecca" width ="200px" height ="200px" class="img-responsive">
