@@ -9,7 +9,8 @@ you should be able to follow the instructions.
 
 <video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload ></video>
 <hr>
-
+<video width="320" height="240" controls>
+  <source src="/assets/img/Indeed-App.mp4" type="video/mp4"> </video>
 
 <hr>
 <video width="320" height="240" controls preload>
