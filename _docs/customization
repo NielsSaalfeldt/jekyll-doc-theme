@@ -4,10 +4,10 @@ permalink: /docs/customization/
 ---
 Here below is a video showcasing on how to use our app. By following the steps from the first pages,
 you should be able to follow the instructions.
+<br></br>
 
 
-
-<video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload></video>
+<video src="/assets/img/Indeed-App.mp4" width="320" height="200" ></video>
 
 <hr>
 
