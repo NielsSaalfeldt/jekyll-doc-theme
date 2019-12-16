@@ -1,7 +1,6 @@
 ---
 title: Tutorial
 permalink: /docs/customization/
-youtubeId: HGpyBmx_YqI&feature=youtu.be
 
 ---
 Here below is a video showcasing on how to use our app. By following the steps from the first pages,
@@ -11,14 +10,12 @@ you should be able to follow the instructions. Please click on the grey Youtube 
 
 
 <hr>
+<p align ="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HGpyBmx_YqI&feature=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/HGpyBmx_YqI&feature=youtu.be/0.jpg"
 alt="Please click me!" width="240" height="180" border="10" /></a>
-
-<hr>
-
+</p>
 
 
-{% include youtubePlayer.html id=page.youtubeId %}
 
 
