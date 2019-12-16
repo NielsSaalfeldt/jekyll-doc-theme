@@ -11,4 +11,4 @@ you should be able to follow the instructions.
 
 <hr>
 
-<video src="{{ "/assets/img/Indee-App.mp4" | relative_url }}" alt="Rebecca" width ="200px" height ="200px" class="img-responsive">
+<video src="{{ "/assets/img/Indeed-App.mp4" | relative_url }}" alt="Rebecca" width ="200px" height ="200px" class="img-responsive">
