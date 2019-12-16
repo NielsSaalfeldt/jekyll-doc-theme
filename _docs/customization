@@ -7,16 +7,12 @@ you should be able to follow the instructions.
 <br></br>
 
 
-<video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload ></video>
-<hr>
-<video width="320" height="240" controls>
-  <source src="/assets/img/Indeed-App.mp4" type="video/mp4"> </video>
 
 <hr>
-<video width="320" height="240" controls preload>
-  <source src="/assets/img/Indeed-App.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HGpyBmx_YqI&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/HGpyBmx_YqI&feature=youtu.be/0.jpg"
+alt="/assets/img/i-logo.png" width="240" height="180" border="10" /></a>
 
 <hr>
+HTML('<iframe width="840" height="472.5" src="https://www.youtube.com/watch?v=HGpyBmx_YqI&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
 
