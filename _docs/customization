@@ -1,9 +1,11 @@
 ---
 title: Tutorial
 permalink: /docs/customization/
+youtubeId: HGpyBmx_YqI&feature=youtu.be
+
 ---
 Here below is a video showcasing on how to use our app. By following the steps from the first pages,
-you should be able to follow the instructions.
+you should be able to follow the instructions. 
 <br></br>
 
 
@@ -14,5 +16,17 @@ you should be able to follow the instructions.
 alt="/assets/img/i-logo.png" width="240" height="180" border="10" /></a>
 
 <hr>
-HTML('<iframe width="840" height="472.5" src="https://www.youtube.com/watch?v=HGpyBmx_YqI&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/{{ include.id }}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
 
