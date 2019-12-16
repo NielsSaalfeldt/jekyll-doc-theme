@@ -7,7 +7,7 @@ you should be able to follow the instructions.
 <br></br>
 
 
-<video src="/assets/img/Indeed-App.mp4" width="320" height="200" ></video>
+<video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload ></video>
 
 <hr>
 
