@@ -9,7 +9,6 @@ you should be able to follow the instructions.
 
 <video src="/assets/img/Indeed-App.mp4" width="320" height="200" controls preload ></video>
 <hr>
-<video src="/assets/img/Indeed-App.mp4" width="320" height="200" autoplay></video>
 
 
 <hr>
@@ -20,7 +19,3 @@ Your browser does not support the video tag.
 
 <hr>
 
-<video width="320" height="240" autoplay>
-  <source src="/assets/img/Indeed-App.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
